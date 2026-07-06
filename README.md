@@ -140,7 +140,7 @@ Potential enhancements include:
 If you have feedback, suggestions, or would like to collaborate on sports analytics or any data projects, feel free to connect.
 
 - LinkedIn: www.linkedin.com/in/biobakusoliu
-- X (formerly Twitter): x.com/theomokiikan
+- X (formerly Twitter): www.x.com/theomokiikan
 
 - ---
 
